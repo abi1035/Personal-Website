@@ -1,0 +1,172 @@
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  bottom:65px;
+  padding: 90px auto 0px auto;
+
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  position: relative;
+  top: 100px;
+
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 60px;
+  border-width: 8px;
+  margin: 75px auto;
+  color: #EAF6F6;
+
+}
+
+.explain {
+  color: #40514E;
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+  line-height: 2
+}
+
+
+.engineer {
+  position: relative;
+  top: 65px;
+
+}
+
+.eng {
+  text-decoration: underline;
+}
+
+.top {
+  position: absolute;
+  top: 45px;
+  right: 500px;
+}
+
+.bottom {
+  position: absolute;
+  top: 230px;
+  left: 350px;
+}
+
+.skill-row {
+  width:50%;
+  margin:100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.Engicon {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Developer {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.Gamer {
+  width: 18%;
+  float: left;
+  margin-right: 30px;
+}
+
+.desc {
+  text-align: justify;
+}
+
+.contact {
+  margin: 25px auto 55px auto
+}
+
+
+.btn {
+  background:  #11cdd4;
+  background-image: -webkit-linear-gradient(top,  #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top,  #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top,  #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top,  #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom,  #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+  margin-top: 85px;
+  margin-bottom: 0px;
+  padding-top: 35px;
+  padding-bottom: 25px;
+  background-color: #66BFBF;
+
+}
+
+.footer-link {
+
+  color: #11999E;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.footer {
+  padding-top: 20px;
+  padding-bottom: 25px;
+  color: #EAF6F6;
+}
